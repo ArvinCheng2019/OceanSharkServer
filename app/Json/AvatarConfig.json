@@ -1,0 +1,193 @@
+﻿{
+  "AvatarConfig": [
+    {
+      "ID": 4001,
+      "Stage_1": "4001_1",
+      "Stage_2": "4001_2",
+      "Stage_3": "4001_3",
+      "IconName": "icon_shark",
+      "UnlockType": 2,
+      "UnlockCndition": 3000
+    },
+    {
+      "ID": 4002,
+      "Stage_1": "4002_1",
+      "Stage_2": "4002_2",
+      "Stage_3": "4002_3",
+      "IconName": "icon_shark",
+      "UnlockType": 1,
+      "UnlockCndition": -1
+    },
+    {
+      "ID": 4003,
+      "Stage_1": "4003_1",
+      "Stage_2": "4003_2",
+      "Stage_3": "4003_3",
+      "IconName": "icon_shark",
+      "UnlockType": 3,
+      "UnlockCndition": 200
+    },
+    {
+      "ID": 4004,
+      "Stage_1": "4004_1",
+      "Stage_2": "4004_2",
+      "Stage_3": "4004_3",
+      "IconName": "icon_shark",
+      "UnlockType": 2,
+      "UnlockCndition": 1000
+    },
+    {
+      "ID": 4005,
+      "Stage_1": "4005_1",
+      "Stage_2": "4005_2",
+      "Stage_3": "4005_3",
+      "IconName": "icon_shark",
+      "UnlockType": 4,
+      "UnlockCndition": 10
+    },
+    {
+      "ID": 4006,
+      "Stage_1": "4006_1",
+      "Stage_2": "4006_2",
+      "Stage_3": "4006_3",
+      "IconName": "icon_shark",
+      "UnlockType": 5,
+      "UnlockCndition": 5000
+    },
+    {
+      "ID": 4007,
+      "Stage_1": "4007_1",
+      "Stage_2": "4007_2",
+      "Stage_3": "4007_3",
+      "IconName": "icon_shark",
+      "UnlockType": 5,
+      "UnlockCndition": 200
+    },
+    {
+      "ID": 4008,
+      "Stage_1": "4008_1",
+      "Stage_2": "4008_2",
+      "Stage_3": "4008_3",
+      "IconName": "icon_shark",
+      "UnlockType": 1,
+      "UnlockCndition": -1
+    },
+    {
+      "ID": 4009,
+      "Stage_1": "4009_1",
+      "Stage_2": "4009_2",
+      "Stage_3": "4009_3",
+      "IconName": "icon_shark",
+      "UnlockType": 2,
+      "UnlockCndition": 2000
+    },
+    {
+      "ID": 4010,
+      "Stage_1": "4010_1",
+      "Stage_2": "4010_2",
+      "Stage_3": "4010_3",
+      "IconName": "icon_shark",
+      "UnlockType": 3,
+      "UnlockCndition": 3000
+    },
+    {
+      "ID": 4011,
+      "Stage_1": "4011_1",
+      "Stage_2": "4011_2",
+      "Stage_3": "4011_3",
+      "IconName": "icon_shark",
+      "UnlockType": 4,
+      "UnlockCndition": 50
+    },
+    {
+      "ID": 4012,
+      "Stage_1": "4012_1",
+      "Stage_2": "4012_2",
+      "Stage_3": "4012_3",
+      "IconName": "icon_shark",
+      "UnlockType": 5,
+      "UnlockCndition": 400
+    },
+    {
+      "ID": 4013,
+      "Stage_1": "4013_1",
+      "Stage_2": "4013_2",
+      "Stage_3": "4013_3",
+      "IconName": "icon_shark",
+      "UnlockType": 1,
+      "UnlockCndition": -1
+    },
+    {
+      "ID": 4014,
+      "Stage_1": "4014_1",
+      "Stage_2": "4014_2",
+      "Stage_3": "4014_3",
+      "IconName": "icon_shark",
+      "UnlockType": 2,
+      "UnlockCndition": 2000
+    },
+    {
+      "ID": 4015,
+      "Stage_1": "4015_1",
+      "Stage_2": "4015_2",
+      "Stage_3": "4015_3",
+      "IconName": "icon_shark",
+      "UnlockType": 3,
+      "UnlockCndition": 6000
+    },
+    {
+      "ID": 4016,
+      "Stage_1": "4016_1",
+      "Stage_2": "4016_2",
+      "Stage_3": "4016_3",
+      "IconName": "icon_shark",
+      "UnlockType": 4,
+      "UnlockCndition": 60
+    },
+    {
+      "ID": 4017,
+      "Stage_1": "4017_1",
+      "Stage_2": "4017_2",
+      "Stage_3": "4017_3",
+      "IconName": "icon_shark",
+      "UnlockType": 5,
+      "UnlockCndition": 1000
+    },
+    {
+      "ID": 4018,
+      "Stage_1": "4018_1",
+      "Stage_2": "4018_2",
+      "Stage_3": "4018_3",
+      "IconName": "icon_shark",
+      "UnlockType": 1,
+      "UnlockCndition": -1
+    },
+    {
+      "ID": 4019,
+      "Stage_1": "4019_1",
+      "Stage_2": "4019_2",
+      "Stage_3": "4019_3",
+      "IconName": "icon_shark",
+      "UnlockType": 2,
+      "UnlockCndition": 200
+    },
+    {
+      "ID": 4020,
+      "Stage_1": "4020_1",
+      "Stage_2": "4020_2",
+      "Stage_3": "4020_3",
+      "IconName": "icon_shark",
+      "UnlockType": 3,
+      "UnlockCndition": 300
+    },
+    {
+      "ID": 4021,
+      "Stage_1": "4021_1",
+      "Stage_2": "4021_2",
+      "Stage_3": "4021_3",
+      "IconName": "icon_shark",
+      "UnlockType": 4,
+      "UnlockCndition": 10
+    }
+  ]
+}

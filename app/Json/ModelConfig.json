@@ -1,0 +1,64 @@
+﻿{
+  "ModelConfig": [
+    {
+      "ID": "3001",
+      "ResChildhood": "FC_3001",
+      "ResAdult": "F_3001",
+      "Materials": "F_3001",
+      "AvatarIDs": 4001,
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "ID": "3003",
+      "ResChildhood": "FC_3003",
+      "ResAdult": "F_3003",
+      "Materials": "F_3003",
+      "AvatarIDs": "4003",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "ID": "3005",
+      "ResChildhood": "FC_3005",
+      "ResAdult": "F_3005",
+      "Materials": "F_3005",
+      "AvatarIDs": "4005",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "ID": "3007",
+      "ResChildhood": "FC_3007",
+      "ResAdult": "F_3007",
+      "Materials": "F_3007",
+      "AvatarIDs": "4007",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "ID": "3008",
+      "ResChildhood": "FC_3008",
+      "ResAdult": "F_3008",
+      "Materials": "F_3008",
+      "AvatarIDs": "4008",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "ID": "3010",
+      "ResChildhood": "FC_3010",
+      "ResAdult": "F_3010",
+      "Materials": "F_3010",
+      "AvatarIDs": 4010,
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    }
+  ]
+}

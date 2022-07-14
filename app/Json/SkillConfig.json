@@ -1,0 +1,279 @@
+﻿{
+  "SkillConfig": [
+    {
+      "SkillID": 5001,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 0.5,
+      "EffectNum": 50,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5002,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 1.5,
+      "EffectNum": 51,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5003,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 2.5,
+      "EffectNum": 52,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5004,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 3.5,
+      "EffectNum": 53,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5005,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 4.5,
+      "EffectNum": 54,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5006,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 5.5,
+      "EffectNum": 55,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5007,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 6.5,
+      "EffectNum": 56,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5008,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 7.5,
+      "EffectNum": 57,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5009,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 8.5,
+      "EffectNum": 58,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5010,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 9.5,
+      "EffectNum": 59,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5011,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 10.5,
+      "EffectNum": 60,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5012,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 11.5,
+      "EffectNum": 61,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5013,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 12.5,
+      "EffectNum": 62,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5014,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 13.5,
+      "EffectNum": 63,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5015,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 14.5,
+      "EffectNum": 64,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5016,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 15.5,
+      "EffectNum": 65,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5017,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 16.5,
+      "EffectNum": 66,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5018,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 17.5,
+      "EffectNum": 67,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5019,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 18.5,
+      "EffectNum": 68,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5020,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 19.5,
+      "EffectNum": 69,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5021,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 20.5,
+      "EffectNum": 70,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5022,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 21.5,
+      "EffectNum": 71,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5023,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 22.5,
+      "EffectNum": 72,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5024,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 23.5,
+      "EffectNum": 73,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    },
+    {
+      "SkillID": 5025,
+      "Desc": "无",
+      "col_2": 2,
+      "Percent": 50,
+      "EffecTime": 24.5,
+      "EffectNum": 74,
+      "col_6": "",
+      "col_7": "",
+      "col_8": ""
+    }
+  ]
+}

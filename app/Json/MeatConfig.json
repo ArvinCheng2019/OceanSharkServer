@@ -1,0 +1,85 @@
+﻿{
+  "MeatConfig": [
+    {
+      "MeatID": 1,
+      "MeatLevel": 1,
+      "MeatExp": 3,
+      "MeatHp": 0,
+      "MeatName": "M_001",
+      "RecoverNum": 10,
+      "RecoverPer": 0.005
+    },
+    {
+      "MeatID": 2,
+      "MeatLevel": 2,
+      "MeatExp": 10,
+      "MeatHp": 50,
+      "MeatName": "M_002",
+      "RecoverNum": 20,
+      "RecoverPer": 0.0055
+    },
+    {
+      "MeatID": 3,
+      "MeatLevel": 3,
+      "MeatExp": 15,
+      "MeatHp": 100,
+      "MeatName": "M_003",
+      "RecoverNum": 30,
+      "RecoverPer": 0.006
+    },
+    {
+      "MeatID": 4,
+      "MeatLevel": 4,
+      "MeatExp": 20,
+      "MeatHp": 150,
+      "MeatName": "M_004",
+      "RecoverNum": 40,
+      "RecoverPer": 0.0065
+    },
+    {
+      "MeatID": 5,
+      "MeatLevel": 5,
+      "MeatExp": 30,
+      "MeatHp": 200,
+      "MeatName": "M_005",
+      "RecoverNum": 50,
+      "RecoverPer": 0.007
+    },
+    {
+      "MeatID": 6,
+      "MeatLevel": 6,
+      "MeatExp": 40,
+      "MeatHp": 250,
+      "MeatName": "M_006",
+      "RecoverNum": 60,
+      "RecoverPer": 0.0075
+    },
+    {
+      "MeatID": 7,
+      "MeatLevel": 7,
+      "MeatExp": 60,
+      "MeatHp": 300,
+      "MeatName": "M_007",
+      "RecoverNum": 70,
+      "RecoverPer": 0.008
+    },
+    {
+      "MeatID": 8,
+      "MeatLevel": 8,
+      "MeatExp": 80,
+      "MeatHp": 350,
+      "MeatName": "M_008",
+      "RecoverNum": 80,
+      "RecoverPer": 0.0085
+    },
+    {
+      "MeatID": 9,
+      "MeatLevel": 9,
+      "MeatExp": 120,
+      "MeatHp": 400,
+      "MeatName": "M_009",
+      "RecoverNum": 90,
+      "RecoverPer": 0.009
+    }
+  ]
+}
