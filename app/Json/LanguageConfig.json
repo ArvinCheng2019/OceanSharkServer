@@ -1,0 +1,322 @@
+﻿{
+  "LanguageConfig": [
+    {
+      "ID": 1,
+      "Key": "jinruhaiyu",
+      "CN": "进入海域",
+      "EN": "enter sea"
+    },
+    {
+      "ID": 2,
+      "Key": "tujian",
+      "CN": "图鉴",
+      "EN": "Atlas"
+    },
+    {
+      "ID": 3,
+      "Key": "nanhai",
+      "CN": "南海",
+      "EN": "nanhai"
+    },
+    {
+      "ID": 4,
+      "Key": "nanhaimiaoshu",
+      "CN": "南海，位于中国大陆的南方，是太平洋西部海域，中国三大边缘海之一，该海域自然海域面积约350万平方公里。",
+      "EN": "The South China Sea, located in the south of Chinese Mainland, is the Western Pacific Ocean and one of China's three marginal seas. The natural sea area of this sea area is about 3.5 million square kilometers. "
+    },
+    {
+      "ID": 5,
+      "Key": "ehuocikehai",
+      "CN": "鄂霍次克海",
+      "EN": "ehuocikehai"
+    },
+    {
+      "ID": 6,
+      "Key": "ehuocikehaimiaoshu",
+      "CN": "鄂霍茨克海是太平洋西北部的边缘海。包括舍列霍夫湾、乌德湾、太湾、阿卡德米湾等。海水北浅南深。海水中营养盐类较多，有利于海洋生物的繁殖。",
+      "EN": "The Okhotsk Sea is a marginal sea in the northwest of the Pacific Ocean. Including sherekhov Bay, oud Bay, Taiwan Bay, akademi Bay, etc. The sea water is shallow in the north and deep in the south. There are many nutrient salts in seawater, which is conducive to the reproduction of marine organisms."
+    },
+    {
+      "ID": 7,
+      "Key": "shanhuhai",
+      "CN": "珊瑚海",
+      "EN": "shanhuhai"
+    },
+    {
+      "ID": 8,
+      "Key": "shanhuhaimiaoshu",
+      "CN": "珊瑚海是世界上最大的海。珊瑚海因有大量珊瑚礁而得名，世界有名的大堡礁就在这个海区。珊瑚礁为海洋动植物提供了优越的生活和栖息条件。 珊瑚海中盛产鲨鱼，还产鲱、海龟、海参、珍珠贝等。",
+      "EN": "The Coral Sea is the largest sea in the world. The Coral Sea is named after a large number of coral reefs, and the world-famous Great Barrier Reef is located in this sea area. Coral reefs provide superior living and habitat conditions for marine animals and plants. The Coral Sea is rich in sharks, herring, turtles, sea cucumbers, pearl shells, etc."
+    },
+    {
+      "ID": 9,
+      "Key": "tasimanhai",
+      "CN": "塔斯曼海",
+      "EN": "tasimanhai"
+    },
+    {
+      "ID": 10,
+      "Key": "tasimanhaimiaoshu",
+      "CN": "塔斯曼海是西南太平洋的边缘海，北与珊瑚海相连，不同的洋流使塔斯曼海南部通常为温带气候，北部为亚热带气候。",
+      "EN": "The Tasman Sea is the marginal sea of the southwest Pacific Ocean. It is connected with the Coral Sea in the north. Different ocean currents make the southern Tasman Sea generally have a temperate climate and the northern Tasman Sea has a subtropical climate."
+    },
+    {
+      "ID": 11,
+      "Key": "jinrutiaojian",
+      "CN": "进入条件：图鉴数量达到{0}({1}/{2})",
+      "EN": "Entry conditions:The number of atlas reaches {0}.({1}/{2})"
+    },
+    {
+      "ID": 12,
+      "Key": "shibanyu",
+      "CN": "石斑鱼",
+      "EN": "shibanyu"
+    },
+    {
+      "ID": 13,
+      "Key": "shirenyu",
+      "CN": "食人鱼",
+      "EN": "shirenyu"
+    },
+    {
+      "ID": 14,
+      "Key": "ankangyu",
+      "CN": "鮟鱇鱼",
+      "EN": "ankangyu"
+    },
+    {
+      "ID": 15,
+      "Key": "shayu",
+      "CN": "鲨鱼",
+      "EN": "shayu"
+    },
+    {
+      "ID": 16,
+      "Key": "tuwenjing",
+      "CN": "突吻鲸",
+      "EN": "tuwenjing"
+    },
+    {
+      "ID": 17,
+      "Key": "jingsha",
+      "CN": "鲸鲨",
+      "EN": "jingsha"
+    },
+    {
+      "ID": 18,
+      "Key": "chuzhan",
+      "CN": "出战",
+      "EN": "chuzhan"
+    },
+    {
+      "ID": 19,
+      "Key": "jiesuo1",
+      "CN": "默认解锁",
+      "EN": "morenjiesuo"
+    },
+    {
+      "ID": 20,
+      "Key": "jiesuo2",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 21,
+      "Key": "jiesuo3",
+      "CN": "解锁：钻石{0}",
+      "EN": "diamond{0}"
+    },
+    {
+      "ID": 22,
+      "Key": "jiesuo4",
+      "CN": "解锁：观看广告{0}次",
+      "EN": "ad{0}"
+    },
+    {
+      "ID": 23,
+      "Key": "jiesuo5",
+      "CN": "解锁：击杀{0}{1}次（{2}/{3}）",
+      "EN": "beat{0}{1}times（{2}/{3}）"
+    },
+    {
+      "ID": 24,
+      "Key": "jiesuo6",
+      "CN": "解锁：完成{0}次充值",
+      "EN": "chongzhi{0}ci"
+    },
+    {
+      "ID": 25,
+      "Key": "faxian",
+      "CN": "发现：图鉴数量达到{0}（{1}/{2}）",
+      "EN": "find:{0}（{1}/{2}）"
+    },
+    {
+      "ID": 26,
+      "Key": "zuigaofen",
+      "CN": "最高分：",
+      "EN": "zuigaofen:"
+    },
+    {
+      "ID": 27,
+      "Key": "kaishiyouxi",
+      "CN": "开始游戏",
+      "EN": "game start"
+    },
+    {
+      "ID": 28,
+      "Key": "shibanyumiaoshu",
+      "CN": "石斑鱼是石斑鱼亚科鱼类的总称。为暖水性的大中型海产鱼类，广泛分布于热带和亚热带海域，在我国主要分布于台湾海峡以及南海海域。",
+      "EN": "Grouper is the general name of grouper subfamily. It is a large and medium-sized warm water marine fish, which is widely distributed in tropical and subtropical waters. In China, it is mainly distributed in the Taiwan Strait and the South China Sea."
+    },
+    {
+      "ID": 29,
+      "Key": "shirenyumiaoshu",
+      "CN": "食人鲳，也称食人鱼，是分布于南美洲亚马逊河中的一种鱼，是水虎鱼的一种。",
+      "EN": "Piranha pomfret, also known as piranha, is a kind of fish distributed in the Amazon River in South America. It is a kind of piranha."
+    },
+    {
+      "ID": 30,
+      "Key": "ankangyumiaoshu",
+      "CN": "鮟鱇头部上方有个肉状突出，形似小灯笼，是由鮟鱇鱼的第一背鳍逐渐向上延伸形成的。",
+      "EN": "There is a fleshy protrusion above the head of the fish, which looks like a small lantern, and is formed by the gradual upward extension of the first dorsal fin of the fish."
+    },
+    {
+      "ID": 31,
+      "Key": "shayumiaoshu",
+      "CN": "鲨鱼属于脊椎动物门软骨纲板鳃亚纲，海生，少数种类进入淡水，为一群游速快的中大型海洋鱼类。",
+      "EN": "Sharks belong to vertebrate phylum cartilagina and Lamellibranchia, which are marine. A few species enter fresh water and are a group of fast-moving medium and large marine fish."
+    },
+    {
+      "ID": 32,
+      "Key": "tuwenjingmiaoshu",
+      "CN": "突吻鲸，又称喙鲸，是一种生活在海洋深处的神秘哺乳动物，很难被发现。突吻鲸因其头小、吻似鸟嘴狭长而得名。",
+      "EN": "Beaked whale, also known as beaked whale, is a mysterious mammal living in the depths of the ocean, which is difficult to be found. The beaked whale is named for its small head and long, narrow beak."
+    },
+    {
+      "ID": 33,
+      "Key": "jingshamiaoshu",
+      "CN": "鲸鲨，鲸鲨科鲸鲨属的鲨鱼。鲸鲨仅1科1属1种。身体庞大，全长可达20米，是世界上最大的鱼类",
+      "EN": "Whale shark, a shark of the genus cetacean in the family cetaceaceae. Whale sharks are only 1 species, 1 genus, 1 family. With a huge body and a total length of up to 20 meters, it is the largest fish in the world."
+    },
+    {
+      "ID": 34,
+      "Key": "ceshi",
+      "CN": "测试",
+      "EN": "Test"
+    },
+    {
+      "ID": 35,
+      "Key": "ceshimiaoshu",
+      "CN": "测试描述",
+      "EN": "Test description"
+    },
+    {
+      "ID": 36,
+      "Key": "paihang",
+      "CN": "排行",
+      "EN": "rank"
+    },
+    {
+      "ID": 37,
+      "Key": "qingli",
+      "CN": "清理",
+      "EN": "clear"
+    },
+    {
+      "ID": 38,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 39,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 40,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 41,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 42,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 43,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 44,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 45,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 46,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 47,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 48,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 49,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 50,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 51,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 52,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    },
+    {
+      "ID": 53,
+      "Key": "",
+      "CN": "",
+      "EN": ""
+    }
+  ]
+}

@@ -1,15 +1,21 @@
-# hackernews-async-ts
-
-[Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
+# 一个基于KOA2的无状态WebServer
 
 ## QuickStart
 
-### Development
+    使用TS开发
+
+## 依赖的库有
+
+    loadsh // 用来做数据查询聚合的库，效率非常高
+    Mongoose // 是在node.js异步环境下对mongodb进行便捷操作的对象模型工具
+    JsonWebToken //一个开放标准协议，用于各方之间作为JSON对象安全地传输信息。
+
+### 开发模式下
 
 ```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
+npm i
+npm run dev
+open http://localhost:7001/
 ```
 
 Don't tsc compile at development mode, if you had run `tsc` then you need to `npm run clean` before `npm run dev`.
@@ -17,8 +23,8 @@ Don't tsc compile at development mode, if you had run `tsc` then you need to `np
 ### Deploy
 
 ```bash
-$ npm run tsc
-$ npm start
+npm run tsc
+npm start
 ```
 
 ### Npm Scripts
@@ -27,7 +33,23 @@ $ npm start
 - Use `npm test` to run unit test
 - se `npm run clean` to clean compiled js at development mode once
 
-### Requirement
+### 依赖
 
 - Node.js 8.x
 - Typescript 2.8+
+
+## 主要路由
+
+### 登陆和注册
+
+    基于微信 或者蓝飞的登陆系统，返回唯一ID后作为key 处理
+
+### 同步玩家数据
+
+### 击杀某一条鱼
+
+### 发现某一条鱼
+
+### 解锁某一海域
+
+### 升级

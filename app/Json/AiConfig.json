@@ -1,0 +1,1124 @@
+﻿{
+  "AiConfig": [
+    {
+      "ID": 1,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 100
+    },
+    {
+      "ID": 2,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 200
+    },
+    {
+      "ID": 3,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 300
+    },
+    {
+      "ID": 4,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 400
+    },
+    {
+      "ID": 5,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 500
+    },
+    {
+      "ID": 6,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 600
+    },
+    {
+      "ID": 7,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 700
+    },
+    {
+      "ID": 8,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 800
+    },
+    {
+      "ID": 9,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 900
+    },
+    {
+      "ID": 10,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 9,
+      "Rate": 1000
+    },
+    {
+      "ID": 11,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 100
+    },
+    {
+      "ID": 12,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 200
+    },
+    {
+      "ID": 13,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 300
+    },
+    {
+      "ID": 14,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 400
+    },
+    {
+      "ID": 15,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 500
+    },
+    {
+      "ID": 16,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 600
+    },
+    {
+      "ID": 17,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 700
+    },
+    {
+      "ID": 18,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 800
+    },
+    {
+      "ID": 19,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 900
+    },
+    {
+      "ID": 20,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 7,
+      "Rate": 1000
+    },
+    {
+      "ID": 21,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 100
+    },
+    {
+      "ID": 22,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 200
+    },
+    {
+      "ID": 23,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 300
+    },
+    {
+      "ID": 24,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 400
+    },
+    {
+      "ID": 25,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 500
+    },
+    {
+      "ID": 26,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 600
+    },
+    {
+      "ID": 27,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 700
+    },
+    {
+      "ID": 28,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 800
+    },
+    {
+      "ID": 29,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 900
+    },
+    {
+      "ID": 30,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 2,
+      "Rate": 1000
+    },
+    {
+      "ID": 31,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 32,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 33,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 34,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 35,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 36,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 37,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 38,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 39,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 40,
+      "Examine": 1,
+      "Condition": 3,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 41,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 42,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 43,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 44,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 45,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 46,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 47,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 48,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 49,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 50,
+      "Examine": 1,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 51,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 52,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 53,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 54,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 55,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 56,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 57,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 58,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 59,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 60,
+      "Examine": 1,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 61,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 62,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 63,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 64,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 65,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 66,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 67,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 68,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 69,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 70,
+      "Examine": 1,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 71,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 72,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 73,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 74,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 75,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 76,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 77,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 78,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 79,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 80,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 81,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 82,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 83,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 84,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 85,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 86,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 87,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 88,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 89,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 90,
+      "Examine": 2,
+      "Condition": 1,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 91,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 100
+    },
+    {
+      "ID": 92,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 200
+    },
+    {
+      "ID": 93,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 300
+    },
+    {
+      "ID": 94,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 400
+    },
+    {
+      "ID": 95,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 500
+    },
+    {
+      "ID": 96,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 600
+    },
+    {
+      "ID": 97,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 700
+    },
+    {
+      "ID": 98,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 800
+    },
+    {
+      "ID": 99,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 900
+    },
+    {
+      "ID": 100,
+      "Examine": 2,
+      "Condition": 4,
+      "Behaviour": 3,
+      "Rate": 1000
+    },
+    {
+      "ID": 101,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 100
+    },
+    {
+      "ID": 102,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 200
+    },
+    {
+      "ID": 103,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 300
+    },
+    {
+      "ID": 104,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 400
+    },
+    {
+      "ID": 105,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 500
+    },
+    {
+      "ID": 106,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 600
+    },
+    {
+      "ID": 107,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 700
+    },
+    {
+      "ID": 108,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 800
+    },
+    {
+      "ID": 109,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 900
+    },
+    {
+      "ID": 110,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 2,
+      "Rate": 1000
+    },
+    {
+      "ID": 111,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 100
+    },
+    {
+      "ID": 112,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 200
+    },
+    {
+      "ID": 113,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 300
+    },
+    {
+      "ID": 114,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 400
+    },
+    {
+      "ID": 115,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 500
+    },
+    {
+      "ID": 116,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 600
+    },
+    {
+      "ID": 117,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 700
+    },
+    {
+      "ID": 118,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 800
+    },
+    {
+      "ID": 119,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 900
+    },
+    {
+      "ID": 120,
+      "Examine": 2,
+      "Condition": 2,
+      "Behaviour": 7,
+      "Rate": 1000
+    },
+    {
+      "ID": 121,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 100
+    },
+    {
+      "ID": 122,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 200
+    },
+    {
+      "ID": 123,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 300
+    },
+    {
+      "ID": 124,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 400
+    },
+    {
+      "ID": 125,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 500
+    },
+    {
+      "ID": 126,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 600
+    },
+    {
+      "ID": 127,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 700
+    },
+    {
+      "ID": 128,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 800
+    },
+    {
+      "ID": 129,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 900
+    },
+    {
+      "ID": 130,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 1,
+      "Rate": 1000
+    },
+    {
+      "ID": 131,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 100
+    },
+    {
+      "ID": 132,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 200
+    },
+    {
+      "ID": 133,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 300
+    },
+    {
+      "ID": 134,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 400
+    },
+    {
+      "ID": 135,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 500
+    },
+    {
+      "ID": 136,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 600
+    },
+    {
+      "ID": 137,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 700
+    },
+    {
+      "ID": 138,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 800
+    },
+    {
+      "ID": 139,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 900
+    },
+    {
+      "ID": 140,
+      "Examine": 2,
+      "Condition": 17,
+      "Behaviour": 7,
+      "Rate": 1000
+    },
+    {
+      "ID": 141,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 100
+    },
+    {
+      "ID": 142,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 200
+    },
+    {
+      "ID": 143,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 300
+    },
+    {
+      "ID": 144,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 400
+    },
+    {
+      "ID": 145,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 500
+    },
+    {
+      "ID": 146,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 600
+    },
+    {
+      "ID": 147,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 700
+    },
+    {
+      "ID": 148,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 800
+    },
+    {
+      "ID": 149,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 900
+    },
+    {
+      "ID": 150,
+      "Examine": 2,
+      "Condition": 18,
+      "Behaviour": 7,
+      "Rate": 1000
+    },
+    {
+      "ID": 151,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 100
+    },
+    {
+      "ID": 152,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 200
+    },
+    {
+      "ID": 153,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 300
+    },
+    {
+      "ID": 154,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 400
+    },
+    {
+      "ID": 155,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 500
+    },
+    {
+      "ID": 156,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 600
+    },
+    {
+      "ID": 157,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 700
+    },
+    {
+      "ID": 158,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 800
+    },
+    {
+      "ID": 159,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 900
+    },
+    {
+      "ID": 160,
+      "Examine": 2,
+      "Condition": 16,
+      "Behaviour": 8,
+      "Rate": 1000
+    }
+  ]
+}

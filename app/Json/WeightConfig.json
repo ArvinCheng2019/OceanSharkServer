@@ -1,0 +1,134 @@
+﻿{
+  "WeightConfig": [
+    {
+      "ID": 1,
+      "LevelChoice": 2,
+      "LevelNum": 1,
+      "Relation": 2,
+      "TimeChoice": 1,
+      "TimeNum": 22,
+      "WeightChoice": 1,
+      "WeightNum": 100
+    },
+    {
+      "ID": 2,
+      "LevelChoice": 2,
+      "LevelNum": 2,
+      "Relation": 1,
+      "TimeChoice": 2,
+      "TimeNum": 23,
+      "WeightChoice": 2,
+      "WeightNum": 101
+    },
+    {
+      "ID": 3,
+      "LevelChoice": 1,
+      "LevelNum": 3,
+      "Relation": 1,
+      "TimeChoice": 2,
+      "TimeNum": 24,
+      "WeightChoice": 2,
+      "WeightNum": 102
+    },
+    {
+      "ID": 4,
+      "LevelChoice": 1,
+      "LevelNum": 4,
+      "Relation": 2,
+      "TimeChoice": 1,
+      "TimeNum": 25,
+      "WeightChoice": 1,
+      "WeightNum": 103
+    },
+    {
+      "ID": 5,
+      "LevelChoice": 1,
+      "LevelNum": 5,
+      "Relation": 1,
+      "TimeChoice": 1,
+      "TimeNum": 26,
+      "WeightChoice": 2,
+      "WeightNum": 104
+    },
+    {
+      "ID": 6,
+      "LevelChoice": 1,
+      "LevelNum": 6,
+      "Relation": 2,
+      "TimeChoice": 2,
+      "TimeNum": 27,
+      "WeightChoice": 1,
+      "WeightNum": 105
+    },
+    {
+      "ID": 7,
+      "LevelChoice": 1,
+      "LevelNum": 7,
+      "Relation": 2,
+      "TimeChoice": 2,
+      "TimeNum": 28,
+      "WeightChoice": 1,
+      "WeightNum": 106
+    },
+    {
+      "ID": 8,
+      "LevelChoice": 1,
+      "LevelNum": 8,
+      "Relation": 1,
+      "TimeChoice": 1,
+      "TimeNum": 29,
+      "WeightChoice": 1,
+      "WeightNum": 107
+    },
+    {
+      "ID": 9,
+      "LevelChoice": 1,
+      "LevelNum": 1,
+      "Relation": 1,
+      "TimeChoice": 1,
+      "TimeNum": 30,
+      "WeightChoice": 2,
+      "WeightNum": 108
+    },
+    {
+      "ID": 10,
+      "LevelChoice": 1,
+      "LevelNum": 2,
+      "Relation": 1,
+      "TimeChoice": 2,
+      "TimeNum": 31,
+      "WeightChoice": 2,
+      "WeightNum": 109
+    },
+    {
+      "ID": 11,
+      "LevelChoice": 1,
+      "LevelNum": 3,
+      "Relation": 2,
+      "TimeChoice": 2,
+      "TimeNum": 32,
+      "WeightChoice": 1,
+      "WeightNum": 110
+    },
+    {
+      "ID": 12,
+      "LevelChoice": 1,
+      "LevelNum": 4,
+      "Relation": 2,
+      "TimeChoice": 1,
+      "TimeNum": 33,
+      "WeightChoice": 2,
+      "WeightNum": 111
+    },
+    {
+      "ID": 13,
+      "LevelChoice": 1,
+      "LevelNum": 5,
+      "Relation": 1,
+      "TimeChoice": 1,
+      "TimeNum": 34,
+      "WeightChoice": 1,
+      "WeightNum": 112
+    }
+  ]
+}
